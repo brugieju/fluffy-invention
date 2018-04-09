@@ -1,2 +1,2 @@
 Premiers pas sur git
-Deuxième pas deuxième essai
+Deuxième pas
